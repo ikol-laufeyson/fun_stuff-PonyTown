@@ -91,7 +91,7 @@ For this I'll be using various different gifs and images, all rights go to the r
 # Other Code
 Just some code that'd help make everything look cleaner, along with markdowns and whatnot.
 
-For markdowns/formatting syntax, please visit this [github document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+For more markdowns/formatting syntax, please visit this [github document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 | Raw Code | Output (If any) + Description |
 | --- | --- |
