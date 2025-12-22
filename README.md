@@ -91,6 +91,8 @@ For this I'll be using various different gifs and images, all rights go to the r
 # Other Code
 Just some code that'd help make everything look cleaner, along with markdowns and whatnot.
 
+For markdowns/formatting syntax, please visit this [github document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 | Raw Code | Output (If any) + Description |
 | --- | --- |
 | `<!-- ![4c66d91ca16e409d595ba6243e5fc08c](https://github.com/user-attachments/assets/85f10551-529b-46cb-833f-91836e4cf780)-->` | <!-- ![4c66d91ca16e409d595ba6243e5fc08c](https://github.com/user-attachments/assets/85f10551-529b-46cb-833f-91836e4cf780)--> Used to hide things completely. |
@@ -98,9 +100,6 @@ Just some code that'd help make everything look cleaner, along with markdowns an
 | `$\small{\textsf{ }}$` | Gives a blank space, I personally used it to create bigger spaces before the next text in my intro. |
 | `<img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=32cd32" alt="views count">` Used to showcase how many people have viewed your github. | <img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=32cd32" alt="views count"> |
 | `[Link](https://github.com/)` Used to turn links into hyperlinks. | [Link](https://github.com/) |
-
-
-For markdowns/formatting syntax, please visit this [github document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
 
