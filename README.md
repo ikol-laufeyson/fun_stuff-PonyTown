@@ -97,8 +97,9 @@ Just some code that'd help make everything look cleaner, along with markdowns an
 | `<p align="center">` | Used to align text, images, etc. to the center. |
 | `$\small{\textsf{ }}$` | Gives a blank space, I personally used it to create bigger spaces before the next text in my intro. |
 | `<img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=32cd32" alt="views count">` Used to showcase how many people have viewed your github. | <img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=32cd32" alt="views count"> |
+| `[Link](https://github.com/)` Used to turn links into hyperlinks. | [Link](https://github.com/) |
 
-
+For markdowns/formatting syntax, please visit this [github document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
 
