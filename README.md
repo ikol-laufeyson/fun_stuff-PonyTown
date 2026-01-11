@@ -92,6 +92,7 @@ For this I'll be using various different gifs and images, all rights go to the r
 Just some code that'd help make everything look cleaner, along with markdowns and whatnot.
 
 For more markdowns/formatting syntax, please visit this [github document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Source for Github view counter](https://github.com/antonkomarev/github-profile-views-counter)
 
 | Raw Code | Output (If any) + Description |
 | --- | --- |
@@ -102,7 +103,7 @@ For more markdowns/formatting syntax, please visit this [github document](https:
 | `<img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=32cd32" alt="views count">` Used to showcase how many people have viewed your github. | <img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=32cd32" alt="views count"> |
 | `[Link](https://github.com/)` Used to turn links into hyperlinks. | [Link](https://github.com/) |
 
-[Source for Github view counter](https://github.com/antonkomarev/github-profile-views-counter)
+
 
 
 
