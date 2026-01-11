@@ -97,9 +97,12 @@ For more markdowns/formatting syntax, please visit this [github document](https:
 | --- | --- |
 | `<!-- ![4c66d91ca16e409d595ba6243e5fc08c](https://github.com/user-attachments/assets/85f10551-529b-46cb-833f-91836e4cf780)-->` | <!-- ![4c66d91ca16e409d595ba6243e5fc08c](https://github.com/user-attachments/assets/85f10551-529b-46cb-833f-91836e4cf780)--> Used to hide things completely. |
 | `<p align="center">` | Used to align text, images, etc. to the center. |
+| `<div align="center">` | Used to align hyperlinks to the center |
 | `$\small{\textsf{ }}$` | Gives a blank space, I personally used it to create bigger spaces before the next text in my intro. |
 | `<img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=32cd32" alt="views count">` Used to showcase how many people have viewed your github. | <img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=32cd32" alt="views count"> |
 | `[Link](https://github.com/)` Used to turn links into hyperlinks. | [Link](https://github.com/) |
+
+[Source for Github view counter](https://github.com/antonkomarev/github-profile-views-counter)
 
 
 
