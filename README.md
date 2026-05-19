@@ -9,6 +9,11 @@ I've put a bunch of various codes into here and what they do to help PonyTown pl
 <p align="center">
 To start, you want to create a repository with your username as the name so it'll show up on your profile as an intro, afterwards, add a README to it if there isn't one already.
 
+  <p align="center">
+<img width="285" height="323" alt="image" src="https://github.com/user-attachments/assets/168d93fa-817c-440a-bfd1-67dad772dff3" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/19168532-08f6-488b-9059-89144a525760" />
+
+
 
 
 # Coloured Text
